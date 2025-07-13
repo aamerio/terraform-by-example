@@ -1,0 +1,2 @@
+1.1: “Help me set up Terraform on my computer and explain the basic concepts 
+(provider, resource, state). Show me a minimal example with AWS to create an S3 bucket.”

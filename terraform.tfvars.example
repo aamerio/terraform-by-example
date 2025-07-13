@@ -1,0 +1,9 @@
+aws_profile = "default"
+aws_region = "eu-west-1"
+bucket_name_prefix = "my-project"
+environment = "dev"
+enable_versioning = true
+tags = {
+  Project = "MyProject"
+  Owner   = "TeamDev"
+}
